@@ -2,7 +2,6 @@
 
 Un-Official Un-edited Telegram Web Client
 
-Code from https://github.com/zhukov/webogram/tree/gh-pages
 
     Don't want to know how this work, but need to access Telegram Web Try below link.
 https://web.telegram.ind.in
