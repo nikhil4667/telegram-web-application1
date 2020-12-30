@@ -48,7 +48,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ## Configured by
 
-* [TheFirstSpeedster](https://l.telegram.ind.in/TheFirstSpeedster)
+* nikhil4667 for https://github.com/nikhil4667
 
 ## Hosted By GitHub and Deployed by Netlify
 
